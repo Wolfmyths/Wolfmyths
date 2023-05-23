@@ -1,6 +1,8 @@
 # About me
 - Building up my programming portfolio
-- Currently only know python
+- Languages:
+  - Python
+  - C# (Still learning the basics)
 - One day hoping I can collaborate in videogame modding or emulation projects
 
 # My Projects
