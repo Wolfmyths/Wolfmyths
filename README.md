@@ -6,6 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfmyths)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Projects
-[Password Generator](https://github.com/Wolfmyths/password-generator)
++ [Password Generator](https://github.com/Wolfmyths/password-generator)
 
-[Genshin Stopwatch](https://github.com/Wolfmyths/Genshin-Stopwatch)
++ [Genshin Stopwatch](https://github.com/Wolfmyths/Genshin-Stopwatch)
