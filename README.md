@@ -5,7 +5,9 @@
     <br> <br> <br>
 </div>
 
-<h1>Wolfmyths</h1>
+<div>
+    <h1>Wolfmyths</h1>
+</div>
 
 <!-- About -->
 <div id="about" align="center">
