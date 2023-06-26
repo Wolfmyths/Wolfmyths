@@ -9,10 +9,8 @@
 <!-- About -->
 <div id="about" align="center">
     <p> Apsired programmer designing mods and apps for their favorite videogames </p>
-    <p> Anyone wanna make a repo together? (I'm serious) </p>
+    <p> Anyone wanna make a repo together? </p>
     <p> Game genres I can't get enough of: dark fantasy, arena shooters, team-based co-op, survival horror, indie </p>
-    <p> I love me some project diva </p>
-    <img src="hatsunemiku.gif" alt="Hastune Miku" width="193" length="187">
 </div>
 
 <!-- Social Media -->
@@ -40,6 +38,6 @@
 <!-- Analytics -->
 <div id="analytics" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Wolfmyth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmyths&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+   <img alt="Wolfmyth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfmyths&langs_count=8&layout=compact&theme=cobalt&hide_border=true&hide=Jupyter%20Notebook" height="192px">
   </a>
 </div>
