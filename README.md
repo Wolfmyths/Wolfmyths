@@ -11,8 +11,8 @@
     <p> Apsired programmer designing mods and apps for their favorite videogames </p>
     <p> Anyone wanna make a repo together? (I'm serious) </p>
     <p> Game genres I can't get enough of: dark fantasy, arena shooters, team-based co-op, survival horror, indie </p>
-    <span><p> I love me some project diva </p></span>
-    <span><img src="hatsunemiku.gif" alt="Hastune Miku"></span>
+    <p> I love me some project diva </p>
+    <img src="hatsunemiku.gif" alt="Hastune Miku" width="193" length="187">
 </div>
 
 <!-- Social Media -->
