@@ -3,7 +3,7 @@
     <span><img src="meow_attention.gif" alt="Blob Cat :3" height="128" width="122" align="left"></span>
     <span><img src="meow_attentionreverse.png" alt="Reversed Blob Cat >:3" align="right"></span>
     <br> <br> <br>
-    <h1>Wolfmyths</h1>
+    <h1 align="center">Wolfmyths</h1>
     <br> <br> <br>
 </div>
 
