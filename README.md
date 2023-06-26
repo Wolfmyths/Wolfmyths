@@ -5,10 +5,6 @@
     <br> <br> <br>
 </div>
 
-<div align="center">
-    <h1>Wolfmyths</h1>
-</div>
-
 <!-- About -->
 <div id="about" align="center">
     <p> Apsired programmer designing mods and apps for their favorite videogames </p>
