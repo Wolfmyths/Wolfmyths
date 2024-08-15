@@ -8,8 +8,6 @@
 <!-- About -->
 <div id="about" align="center">
     <p> Apsired programmer designing mods and apps for their favorite videogames </p>
-    <p> Anyone wanna make a repo together? </p>
-    <p> Game genres I can't get enough of: dark fantasy, arena shooters, team-based co-op, survival horror, indie </p>
 </div>
 
 <!-- Social Media -->
@@ -17,8 +15,8 @@
   <a href="https://www.tiktok.com/@tb2nc8m34ye">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge">
   </a>
-  <a href="https://twitter.com/Wolfmyths_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  <a href="https://bsky.app/profile/wolfmyths.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-blue?style=for-the-badge&logoColor=white" alt="BlueSky Badge">
   </a>
 </div>
 
